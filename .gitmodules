@@ -1,0 +1,6 @@
+[submodule "Codility"]
+	path = Codility
+	url = git@github.com:adnankhandev/Codility.git
+[submodule "Leet"]
+	path = Leet
+	url = git@github.com:adnankhandev/Leet.git
